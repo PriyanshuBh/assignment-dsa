@@ -27,7 +27,7 @@ public class Main {
                 right = 0;
             }
         }
-        
+         console.log("test")
         left = 0;
         right = 0;
         
